@@ -13,3 +13,4 @@ def find_wifi_password(network_SSID):
         if name == network_SSID:
             break
     return password
+print password
